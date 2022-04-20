@@ -1,0 +1,5 @@
+/opt/test.log {
+           hourly
+           postrotate
+           endscript
+}
